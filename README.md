@@ -3,16 +3,19 @@
 ![Model overview for PH classification](pipeline.png)
 
 ### Summary of repository
-Severity Prediction of PH in newborns using echocardiography (ECHO).
+Code for auotmated severity prediction and analysis of pulmonary hypertension (PH) in newborns using echocardiography (ECHO).
 - Trained models can be found in the following [url](https://drive.google.com/drive/folders/10sTERl6dbAxTilWNJqpGt1BVsf6plUhG)
 - Main code and classes are located in the *ehco_ph* module.
 
 - Scripts for pre-processing dataset, generating index files (for splitting into train 
 and validation set), training models, and analysing results is found in the *scripts* directory.
+
+
 ### Setup
 - Create a conda environment with <code>conda env create -f environment.yml</code>
 - Activate the conda environment.
 - Run <code> pip install -e . </code> (to activate the echo_ph module)
+
 
 ### Description of main scripts and how to run them:
 #### Preparing the data for training and evaluation
