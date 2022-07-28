@@ -52,6 +52,6 @@ and validation set), training models, and analysing results is found in the *scr
   -     python scripts/evaluation/join_view_models_frame_level.py base_res_dir --res_files file_name_KAPAP file_name_CV file_name_CV --views kapap cv la
 
 
-__If this code was helpful to you please consider citing:__
+__If this code was helpful to you, please consider citing:__
 
 @InProceedings{}
