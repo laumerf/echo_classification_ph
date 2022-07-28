@@ -1,0 +1,9 @@
+/tb_runs_cv/
+/segmented_results/
+/echo_ph.egg-info/
+/index_files/
+/label_files/
+/wandb/
+.idea
+.DS_Store
+__pycache__
