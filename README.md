@@ -1,5 +1,7 @@
 # Classifying PH from ECHOS
 
+![Model overview for PH classification](MICCAI_pipeline.pdf)
+
 ### Summary of repository
 Severity Prediction of PH in newborns using echocardiography (ECHO).
 - Trained models can be found in the following [url](https://drive.google.com/drive/folders/10sTERl6dbAxTilWNJqpGt1BVsf6plUhG)
