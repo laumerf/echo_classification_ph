@@ -54,4 +54,11 @@ and validation set), training models, and analysing results is found in the *scr
 
 __If this code was helpful to you, please consider citing:__
 
-@InProceedings{}
+@inproceedings{ragnarsdottir2022interpretable,
+  title={Interpretable Prediction of Pulmonary Hypertension in Newborns Using Echocardiograms},
+  author={Ragnarsdottir, Hanna and Manduchi, Laura and Michel, Holger and Laumer, Fabian and Wellmann, Sven and Ozkan, Ece and Vogt, Julia E},
+  booktitle={DAGM German Conference on Pattern Recognition},
+  pages={529--542},
+  year={2022},
+  organization={Springer}
+}
